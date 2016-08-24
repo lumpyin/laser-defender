@@ -7,7 +7,7 @@ public class PlayerController : MonoBehaviour {
     public float speed = 15.0f;
     public float padding = 1f;
     public GameObject projectile;
-    public float projectileSpeed;
+    public float projectileSpeed = 5f;
 
     float xmin;
     float xmax;
@@ -27,7 +27,7 @@ public class PlayerController : MonoBehaviour {
         if (Input.GetKey(KeyCode.Space))
         {
            GameObject beam = Instantiate(projectile, transform.position, Quaternion.identity) as GameObject;
-            beam.rigidbody2D.velocity = new Vector3(0,projectileSpeed,0);
+           beam.rigidbody2D.velocity = new Vector3(0,projectileSpeed,0);
         }
 
 

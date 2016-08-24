@@ -22,3 +22,15 @@ C:\Users\lumpy\Google Drive\laser-defender\Temp\bin\Debug\ICSharpCode.NRefactory
 C:\Users\lumpy\Google Drive\laser-defender\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
 C:\Users\lumpy\Google Drive\laser-defender\obj\Debug\Assembly-CSharp.dll
 C:\Users\lumpy\Google Drive\laser-defender\obj\Debug\Assembly-CSharp.pdb
+C:\Users\YZhou\Documents\laser-defender\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\YZhou\Documents\laser-defender\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\YZhou\Documents\laser-defender\Temp\bin\Debug\UnityEditor.dll
+C:\Users\YZhou\Documents\laser-defender\Temp\bin\Debug\UnityEngine.dll
+C:\Users\YZhou\Documents\laser-defender\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\YZhou\Documents\laser-defender\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\YZhou\Documents\laser-defender\Temp\bin\Debug\nunit.framework.dll
+C:\Users\YZhou\Documents\laser-defender\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\YZhou\Documents\laser-defender\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\YZhou\Documents\laser-defender\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\Users\YZhou\Documents\laser-defender\obj\Debug\Assembly-CSharp.dll
+C:\Users\YZhou\Documents\laser-defender\obj\Debug\Assembly-CSharp.pdb
